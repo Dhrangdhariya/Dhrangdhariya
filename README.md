@@ -94,6 +94,20 @@ My focus is on creating useful, well-structured applications — from responsive
 
 I prefer projects that help me learn something practical about application development, architecture, user experience, or problem-solving.
 
+### 🔧 Garage — Online Garage Service Management System
+
+A full-stack web application designed to streamline garage operations and two-wheeler servicing through a centralized digital platform.
+
+- 🔐 Authentication and role-based access for managing users and services.
+- 🛠️ Service request management with admin-side confirmation and rejection workflows.
+- 📩 OTP-based email verification for account security.
+- ⭐ Verified customer reviews to support trustworthy service feedback.
+- ⚙️ REST API integration and database-driven application workflows.
+
+**Technologies:** JavaScript · React · Node.js · Express.js · MongoDB
+
+[View repository →](https://github.com/Dhrangdhariya)
+
 ### 🎓 Student Management Dashboard
 
 A full-stack academic management application designed around different user roles and permissions.
@@ -107,17 +121,13 @@ A full-stack academic management application designed around different user role
 
 [Explore my repositories →](https://github.com/Dhrangdhariya?tab=repositories)
 
-### 🗜️ Huffman Compression Tool
+### ⚛️ React E-commerce
 
-A C++-based project exploring file compression and the integration of a systems-level backend with a modern web interface.
+A React-based e-commerce interface that provides experience with component-based UI development.
 
-- Explore Huffman coding, frequency analysis, and binary-tree-based encoding.
-- Connect a C++ processing layer with a frontend application.
-- Learn more about build systems, native dependencies, and backend integration.
+**Technologies:** React · JavaScript · CSS
 
-**Technologies:** C++ · React · CMake · HTTP integration
-
-[Explore my repositories →](https://github.com/Dhrangdhariya?tab=repositories)
+[View repository →](https://github.com/Dhrangdhariya/React-E-com)
 
 ### 🛒 Amazon Clone Page
 
@@ -150,14 +160,6 @@ A website project focused on presenting restaurant information through a structu
 **Technologies:** HTML · CSS
 
 [View repository →](https://github.com/Dhrangdhariya/Restaurant-Webpage)
-
-### ⚛️ React E-commerce
-
-A React-based e-commerce interface that provides experience with component-based UI development.
-
-**Technologies:** React · JavaScript · CSS
-
-[View repository →](https://github.com/Dhrangdhariya/React-E-com)
 
 <p align="center">
   <a href="https://github.com/Dhrangdhariya?tab=repositories">
