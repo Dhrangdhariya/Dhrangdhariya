@@ -15,91 +15,62 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there, I'm Soham Gajjar 👋</h1>
+# Hey, I'm Soham 👋
 
-<p align="center">
-  <strong>Full Stack Web Developer | MERN Stack | React Enthusiast</strong>
-</p>
+### Full-Stack Web Developer · Computer Engineering Student
 
-<p align="center">
-  Building clean, scalable, and user-friendly web applications
-</p>
+I build web applications that solve real problems, with a focus on clean interfaces, reliable backend systems, and practical functionality.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soham-dhrangdhariya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Dhrangdhariya">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+I enjoy turning ideas into working products, exploring new technologies, and improving my skills through hands-on projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dhrangdhariya-181717?style=flat-square&logo=github)](https://github.com/Dhrangdhariya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/soham-dhrangdhariya)
 
 ---
 
-### 🚀 About Me
+### About me
 
-- 🔭 Currently working as **React JS Developer Intern** at **Brainy Beam Pvt. Ltd**
-- 🌱 Building full-stack applications with the **MERN** stack
-- 💡 Passionate about clean UI, reusable components, and real-world problem solving
-- 🎓 Pursuing **B.E. in Computer Engineering** at SAL Institute of Technology (CGPA: 8.13)
-- 📜 Completed **Diploma in Computer Engineering** from Government Polytechnic, Ahmedabad (CGPA: 8.53)
-- ⚡ Always learning and shipping better code
+- 💻 Interested in full-stack development and building real-world applications.
+- ⚛️ Working with React, Next.js, Node.js, Express, and MongoDB.
+- 🛠️ Exploring authentication, REST APIs, database design, and application architecture.
+- 📚 Strengthening my problem-solving and data structures & algorithms skills.
+- 🚀 Always learning, experimenting, and building something useful.
 
----
+### Tech stack
 
-### 🛠️ Tech Stack
+**Frontend**
 
-**Frontend**  
-`React` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` `Redux` `Context API`
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&perline=8)
 
-**Backend**  
-`Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `JWT` `Socket.io`
+**Backend & databases**
 
-**Tools & Others**  
-`Git` `GitHub` `Postman` `Vercel` `Cloudinary` `Stripe` `Chart.js` `Axios`
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8)
 
----
+**Tools**
 
-### 🔥 Featured Projects
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Garage** | Online service management system for garages | JavaScript, MERN |
-| **Eventrora** | Event management platform | JavaScript |
-| **Task Management** | Kanban-style task management app with React | React |
-| **E-Commerce (React)** | Static + dynamic e-commerce experiences | React |
-| **AI Dashboard** | Analytics & AI-powered dashboard | React |
-| **React College Portal** | College management portal | React |
-| **Weather App** | Clean weather application | HTML, CSS, JS |
-| **Amazon / Flipkart Clones** | Frontend clones of popular e-commerce sites | HTML, CSS |
+### Selected projects
 
----
+| Project | What it demonstrates |
+|---|---|
+| [Student Management Dashboard](https://github.com/Dhrangdhariya?tab=repositories) | Role-based access, academic management, and full-stack application development |
+| [Amazon Clone Page](https://github.com/Dhrangdhariya/Amazon-Clone-Page) | Frontend layout and UI implementation |
+| [Restaurant Webpage](https://github.com/Dhrangdhariya/Restaurant-Webpage) | Responsive website development |
+| [Weather App](https://github.com/Dhrangdhariya/Weather-App) | Working with weather data and APIs |
+| [React E-commerce](https://github.com/Dhrangdhariya/React-E-com) | React-based e-commerce interface |
 
-### 📊 GitHub Stats
+### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhrangdhariya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrangdhariya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrangdhariya&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhrangdhariya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="155" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrangdhariya&layout=compact&hide_border=true&theme=transparent" height="155" alt="Most used languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-
-- LinkedIn → [soham-dhrangdhariya](https://www.linkedin.com/in/soham-dhrangdhariya)
-- GitHub → [Dhrangdhariya](https://github.com/Dhrangdhariya)
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhrangdhariya&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
+  <b>Build. Learn. Improve. Repeat.</b>
+  <br/>
+  <sub>Focused on progress, one project at a time.</sub>
 </p>
